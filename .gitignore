@@ -63,6 +63,7 @@ typings/
 # credentials
 credentials/*.json
 credentials/*.env
+credentials/Video Maker-fbbe20d85947.json
 *.env
 
 content.json
